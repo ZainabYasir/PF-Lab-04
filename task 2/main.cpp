@@ -8,7 +8,7 @@ if(number>0){
 cout<<"The number is positive.\n";    
 }
 else{
- cout<<"The number is zero.\n" ;  
+ cout<<"The number is negative.\n" ;  
 }
 return 0;
 }
